@@ -1,9 +1,15 @@
-print("Hello World!") #ini adalah program pertama saya
+x="I Love AI"
+y=1945
+z=71.80
+m=True
+n=2*6/3
 
-print("Nama saya Anin") #namanya adalah Anin
+print(type(x))
+print(type(y))
+print(type(z))
+print(type(m))
+print(type(n))
 
-#Operasi bilangan
-x=2
-y=3
-print(x+y)
-print(x*y)
+nama="Frans Halason"
+print(nama[0:5:7])
+
